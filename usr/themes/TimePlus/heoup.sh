@@ -1,0 +1,1 @@
+rsync -avz --progress --chmod=755 ./ root@116.196.68.153:/www/wwwroot/plog.zhheo.com/usr/themes/TimePlus/ -e "ssh -p 12122"
